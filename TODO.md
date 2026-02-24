@@ -1,0 +1,2 @@
+- [ ] Create homepage
+- [ ] Create about page
